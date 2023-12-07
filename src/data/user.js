@@ -20,7 +20,7 @@ const INFO = {
 	},
 
 	about: {
-		title: "I’m Douglas Passos I live in Brazil, where I design the future.",
+		title: "I’m Douglas Passos, designing platforms for the future.",
 		description:
 			"As my skills grew, so did my ambition. I sought opportunities to work on various web projects, collaborating with individuals and organizations to bring their visions to life. From small businesses seeking an online presence to large corporations demanding complex web applications, I've fearlessly tackled each challenge with gusto.",
 	},
