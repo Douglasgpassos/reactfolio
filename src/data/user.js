@@ -1,6 +1,6 @@
 const INFO = {
 	main: {
-		title: "Reactfolio",
+		title: "Douglas Passos | Fullstack Developer",
 		name: "Douglas Passos",
 		email: "dgpassos01@gmail.com",
 		logo: "../logo.jpg",
