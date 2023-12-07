@@ -2,7 +2,7 @@ const INFO = {
 	main: {
 		title: "Douglas Passos | Fullstack Developer",
 		name: "Douglas Passos",
-		email: "dgpassos01@gmail.com",
+		email: "dev@dgpassos.com",
 		logo: "../logo.jpg",
 	},
 
