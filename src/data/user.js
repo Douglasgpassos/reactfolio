@@ -2,7 +2,7 @@ const INFO = {
 	main: {
 		title: "Douglas Passos | Fullstack Developer",
 		name: "Douglas Passos",
-		email: "dev@dgpassos.com",
+		email: "dgpassos@gmail.com",
 		logo: "../logo.jpg",
 	},
 
@@ -14,7 +14,7 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "Full-stack web and mobile app developer.",
+		title: "Web developer / Content creator.",
 		description:
 			"Web Development lover with a wealth of experience in creating exceptional digital experiences. With a knack for transforming ideas into reality, I've spent years honing my skills and expanding my knowledge in the ever-evolving field of web development.",
 	},
@@ -42,6 +42,24 @@ const INFO = {
 		},
 
 		{
+			title: "Kimukeka Brasília",
+			description:
+				"Social media arts for a high rating brasilian seafood restaurant located by the lake",
+			logo: "../adobe_logo.png",
+			linkText: "View Project",
+			link: "https://www.behance.net/gallery/193927571/Kimukeka-Brasilia-Social",
+		},
+
+		{
+			title: "Fitz Games",
+			description:
+				"Social media arts for Fitz Games",
+			logo: "../adobe_logo.png",
+			linkText: "View Project",
+			link: "https://www.behance.net/gallery/120971641/FITZ-CARDS",
+		},
+
+		{
 			title: "Hardest Hardware",
 			description:
 				"Online hardware marketplace with a community interaction system, user profile showcase reliability by having a rating bar displaying the percentage of the total rating from his selling products.",
@@ -51,21 +69,12 @@ const INFO = {
 		},
 
 		{
-			title: "TemRole",
+			title: "Niftify",
 			description:
-				"TemRole is a web app developed to connect event producers and partygoers by using an interactive map where people can simply choose a city of interest and seek incoming or ongoing events.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/ruby/ruby.png",
+				"NFT/Crypto marketplace Socials and Website",
+			logo: "../adobe_logo.png",
 			linkText: "View Project",
-			link: "https://www.notion.so/vhsdoug/TemRole-Web-26561c587d19438989ec4c14e7703bfc?pvs=4",
-		},
-
-		{
-			title: "Airbnb Inspired Website",
-			description:
-				"Airbnb inspired functional website to rent party gear, users are able to interact with items by selling, buying, checking availability, and rating after confirming a successful delivery.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://www.notion.so/vhsdoug/Airbnb-Inspired-Website-0ddb88c7893d44ba865a37ab58c465bd?pvs=4",
+			link: "https://www.behance.net/gallery/129620191/Niftify",
 		},
 
 		{

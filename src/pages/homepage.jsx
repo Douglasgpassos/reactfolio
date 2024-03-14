@@ -154,7 +154,7 @@ const Homepage = () => {
 									className="homepage-social-icon"
 								/>
 							</a>
-							<a
+							{/* <a
 								href={`mailto:${INFO.main.email}`}
 								target="_blank"
 								rel="noreferrer"
@@ -163,7 +163,7 @@ const Homepage = () => {
 									icon={faMailBulk}
 									className="homepage-social-icon"
 								/>
-							</a>
+							</a> */}
 						</div>
 
 						<div className="homepage-projects">
